@@ -24,10 +24,10 @@ Currently the sole engineer on an invoicing portal for European SMEs, built from
 **🧾 Invoicing Platform** — *Inspirit360 · Commercial, confidential*
 Sole technical owner of a full-stack invoicing portal for European SME back-office operations — architecture, backend, frontend, deployment. Details available on request.
 
-**👁️ Final Year Project** — *[https://github.com/shaheeranser/final-year-project]* · Open source
+**👁️ Final Year Project** — *[https://github.com/shaheeranser/final_year_project]* · Open source
 No-install Moodle plugin for exam proctoring using YOLO-based computer vision. Built as a final-year project, actively maintained.
 
-**⚡ errex** — *[https://github.com/shaheeranser/errex-hackerdorm]*
+**⚡ errex** — *[https://github.com/shaheeranser/errex_hackerdorm]*
 CLI tool that pipes terminal error logs to an LLM and returns plain-language fixes, entirely in-terminal. Python + Groq API.
 
 **🤝 Lookvisa** — *Commercial, confidential*

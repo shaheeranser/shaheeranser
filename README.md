@@ -38,7 +38,7 @@ Founding engineer at **Inspirit360**, where I'm the sole technical owner of a pr
 
 ### ⚙️ Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
 
 ### 🗄️ Databases
 
@@ -46,11 +46,11 @@ Founding engineer at **Inspirit360**, where I'm the sole technical owner of a pr
 
 ### ☁️ Cloud & DevOps
 
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux,caddy,minio)](https://skillicons.dev)
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux)](https://skillicons.dev)
 
 ### 🤖 Data & ML
 
-[![Data & ML](https://skillicons.dev/icons?i=tensorflow,tensorflowjs,mediapipe,numpy,pandas,sklearn)](https://skillicons.dev)
+[![Data & ML](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)
 
 ### Open source
 

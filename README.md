@@ -28,12 +28,29 @@ Founding engineer at **Inspirit360**, where I'm the sole technical owner of a pr
 
 ### Stack
 
-- **Languages** — `TypeScript` `JavaScript` `Python` `C++` `SQL`
-- **Frontend** — `React` `Next.js` `Vite` `HTML5` `CSS3`
-- **Backend** — `Node.js` `Express` `FastAPI` `Flask`
-- **Databases** — `PostgreSQL` `MongoDB` `MySQL`
-- **Cloud & DevOps** — `AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `Linux` `Caddy` `MinIO`
-- **Data & ML** — `TensorFlow` `TensorFlow.js` `MediaPipe` `NumPy` `pandas` `scikit-learn`
+### 💻 Languages
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,cpp,sql)](https://skillicons.dev)
+
+### 🎨 Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,html,css)](https://skillicons.dev)
+
+### ⚙️ Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask)](https://skillicons.dev)
+
+### 🗄️ Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps
+
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux,caddy,minio)](https://skillicons.dev)
+
+### 🤖 Data & ML
+
+[![Data & ML](https://skillicons.dev/icons?i=tensorflow,tensorflowjs,mediapipe,numpy,pandas,sklearn)](https://skillicons.dev)
 
 ### Open source
 

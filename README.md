@@ -1,51 +1,58 @@
-<h1 align="center">Hi, I'm Muhammad Shaheer 👋</h1>
-<h3 align="center">Full-stack engineer building and shipping production web apps — with the DevOps to keep them running.</h3>
+<div align="center">
 
-<p align="center">
-  Founding engineer @ Inspirit360 · Building an invoicing platform from scratch · AI/ML when the problem calls for it
-</p>
+# Muhammad Shaheer
 
-<p align="center">
-  <a href="https://YOUR-PORTFOLIO-DOMAIN.com">🌐 Portfolio</a> ·
-  <a href="https://linkedin.com/in/shaheeranser">💼 LinkedIn</a> ·
-  <a href="mailto:shaheer.anser@gmail.com">✉️ Email</a>
-</p>
+**Full-Stack Software Engineer — production web apps, and the infrastructure that keeps them running.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shaheeranser-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheeranser)
+[![Email](https://img.shields.io/badge/Email-shaheer.anser%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaheer.anser@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shaheeranser-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaheeranser)
+![Lahore, Pakistan](https://img.shields.io/badge/Lahore-Pakistan-2F855A?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to remote](https://img.shields.io/badge/Open%20to-Remote-2B6CB0?style=flat-square&logo=googlechrome&logoColor=white)
+
+</div>
 
 ---
 
-### What I do
+Founding engineer at **Inspirit360**, where I'm the sole technical owner of a production invoicing portal for European SME back offices, built with **Next.js, FastAPI, and PostgreSQL**. I work end to end — architecture, API, frontend, and the deployment that keeps it live — and bring in AI/ML only where it actually earns its place.
 
-I design and ship full-stack web applications end-to-end — architecture, backend, frontend, and the infrastructure that keeps them deployed and observable. I bring in AI/ML where it genuinely solves a problem, not as decoration.
+### Featured work
 
-Currently the sole engineer on an invoicing portal for European SMEs, built from the ground up.
-
-### Selected work
-
-**🧾 Invoicing Platform** — *Inspirit360 · Commercial, confidential*
-Sole technical owner of a full-stack invoicing portal for European SME back-office operations — architecture, backend, frontend, deployment. Details available on request.
-
-**👁️ Final Year Project** — *[https://github.com/shaheeranser/final_year_project]* · Open source
-No-install Moodle plugin for exam proctoring using YOLO-based computer vision. Built as a final-year project, actively maintained.
-
-**⚡ errex** — *[https://github.com/shaheeranser/errex_hackerdorm]*
-CLI tool that pipes terminal error logs to an LLM and returns plain-language fixes, entirely in-terminal. Python + Groq API.
-
-**🤝 Lookvisa** — *Commercial, confidential*
-Backend + API architecture for a live social platform connecting investors and investment seekers. Details available on request.
-
-> Full write-ups with problem/approach/outcome for each of these live on [my portfolio](https://YOUR-PORTFOLIO-DOMAIN.com).
+| Project | Stack | What it is |
+| --- | --- | --- |
+| **[Exam Proctoring Platform](https://github.com/shaheeranser/final_year_project)** | React · TypeScript · Express · MongoDB · Docker · AWS | LTI 1.3 exam platform that runs inside Moodle, with proctoring in the browser via TensorFlow.js (COCO-SSD), MediaPipe and face-api; violation snapshots go to self-hosted MinIO. |
+| **[CI/CD & Kubernetes Pipeline](https://github.com/shaheeranser/github-actions-demo)** | GitHub Actions · Docker · Kubernetes · Azure AKS/ACR | Three-service FastAPI stack delivered by one pipeline: Postgres-backed CI, images to Azure Container Registry, AKS deploys, ephemeral per-PR staging with smoke tests. |
+| **[reamify](https://github.com/shaheeranser/reamify)** | TypeScript · Node.js | MIT library that turns PDF tables into XLSX workbooks using streaming writers, so memory stays bounded on large documents. |
+| **[errex](https://github.com/shaheeranser/errex_hackerdorm)** | Python · LLM | Terminal CLI that pipes error logs to an LLM and returns plain-language fixes without leaving the shell. |
+| **Lookvisa** | React · Express · MongoDB | Commercial platform connecting investors with investment seekers — core API architecture and data models. |
 
 ### Stack
 
-`TypeScript` `JavaScript` `Python` `C++` `SQL`
-`React` `Next.js` `Express` `FastAPI`
-`PostgreSQL` `MySQL` `MongoDB`
-`Docker` `Kubernetes` `AWS` `Azure` `GitHub Actions`
+- **Languages** — `TypeScript` `JavaScript` `Python` `C++` `SQL`
+- **Frontend** — `React` `Next.js` `Vite` `HTML5` `CSS3`
+- **Backend** — `Node.js` `Express` `FastAPI` `Flask`
+- **Databases** — `PostgreSQL` `MongoDB` `MySQL`
+- **Cloud & DevOps** — `AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `Linux` `Caddy` `MinIO`
+- **Data & ML** — `TensorFlow` `TensorFlow.js` `MediaPipe` `NumPy` `pandas` `scikit-learn`
 
-### Open-source activity
+### Open source
 
-Auto-updated log of PRs and issues across public repos — refreshed daily, nothing hand-edited: see [**opensource-contributions**](https://github.com/shaheeranser/opensource-contributions).
+I contribute to projects I actually use. The list below is refreshed daily from the GitHub search API — nothing here is hand-edited. Full history lives in [**opensource-contributions**](https://github.com/shaheeranser/opensource-contributions).
+
+<!-- OSS:START -->
+- 🟢 **Open issue** — [High extraction time and memory usage when using `@firecrawl/pdf-inspector` from an npm package](https://github.com/firecrawl/pdf-inspector/issues/585) · `firecrawl/pdf-inspector` · 2026-09-24
+- 🟣 **Merged** — [fix: rotated table cell double click to edit in slides](https://github.com/genspark-ai/genoffice/pull/171) · `genspark-ai/genoffice` · 2026-08-31
+- 🔴 **Closed issue** — [Double-clicking a cell in a rotated table doesn't open it for editing](https://github.com/genspark-ai/genoffice/issues/169) · `genspark-ai/genoffice` · 2026-08-30
+<!-- OSS:END -->
+
+### Certifications
+
+OCI AI Infrastructure Associate (Oracle University) · Google AI Essentials (Coursera) · AI for Brain-Controlled Applications (NRG) — all 2025.
 
 ---
 
-<p align="center"><sub>Open to contract and full-time work — reach out via <a href="mailto:shaheer.anser@gmail.com">email</a>.</sub></p>
+<div align="center">
+
+<sub>Open to full-time and contract roles in software engineering and DevOps. Remote-friendly — <a href="mailto:shaheer.anser@gmail.com">shaheer.anser@gmail.com</a></sub>
+
+</div>

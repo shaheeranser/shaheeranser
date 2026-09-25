@@ -57,6 +57,8 @@ Founding engineer at **Inspirit360**, where I'm the sole technical owner of a pr
 I contribute to projects I actually use. The list below is refreshed daily from the GitHub search API — nothing here is hand-edited. Full history lives in [**opensource-contributions**](https://github.com/shaheeranser/opensource-contributions).
 
 <!-- OSS:START -->
+- 🟢 **Open PR** — [added shaheeranser to membersmap](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/pull/25) · `Cloud-Native-Security-Pakistan/becoming-a-member` · 2026-09-24
+- 🔴 **Closed issue** — [[INVITE REQUEST]](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/issues/24) · `Cloud-Native-Security-Pakistan/becoming-a-member` · 2026-09-24
 - 🟢 **Open issue** — [High extraction time and memory usage when using `@firecrawl/pdf-inspector` from an npm package](https://github.com/firecrawl/pdf-inspector/issues/585) · `firecrawl/pdf-inspector` · 2026-09-24
 - 🟣 **Merged** — [fix: rotated table cell double click to edit in slides](https://github.com/genspark-ai/genoffice/pull/171) · `genspark-ai/genoffice` · 2026-08-31
 - 🔴 **Closed issue** — [Double-clicking a cell in a rotated table doesn't open it for editing](https://github.com/genspark-ai/genoffice/issues/169) · `genspark-ai/genoffice` · 2026-08-30

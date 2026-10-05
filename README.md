@@ -57,7 +57,7 @@ Founding engineer at **Inspirit360**, where I'm the sole technical owner of a pr
 I contribute to projects I actually use. The list below is refreshed daily from the GitHub search API — nothing here is hand-edited. Full history lives in [**opensource-contributions**](https://github.com/shaheeranser/opensource-contributions).
 
 <!-- OSS:START -->
-- 🟢 **Open issue** — [Sheets: add File > Print (Ctrl/Cmd+P)](https://github.com/genspark-ai/genoffice/issues/1862) · `genspark-ai/genoffice` · 2026-10-04
+- 🔴 **Closed issue** — [Sheets: add File > Print (Ctrl/Cmd+P)](https://github.com/genspark-ai/genoffice/issues/1862) · `genspark-ai/genoffice` · 2026-10-04
 - 🟢 **Open PR** — [perf(tables): cut chart detection and layout complexity off quadratic paths](https://github.com/firecrawl/pdf-inspector/pull/613) · `firecrawl/pdf-inspector` · 2026-10-02
 - 🟢 **Open PR** — [added shaheeranser to membersmap](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/pull/25) · `Cloud-Native-Security-Pakistan/becoming-a-member` · 2026-09-24
 - 🔴 **Closed issue** — [[INVITE REQUEST]](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/issues/24) · `Cloud-Native-Security-Pakistan/becoming-a-member` · 2026-09-24

@@ -33,11 +33,11 @@ Founding engineer at **Inspirit360**, building software for SMEs. Open to full-t
 
 | Project | Stack | What it is |
 | --- | --- | --- |
-| **[Exam Proctoring Platform](https://github.com/shaheeranser/final_year_project)** | React · TypeScript · Express · MongoDB · Docker · AWS | LTI 1.3 exam platform that runs inside Moodle, with in-browser proctoring via TensorFlow.js and MediaPipe; violation snapshots go to self-hosted MinIO. |
+| **[Exam Proctoring Platform](https://github.com/shaheeranser/exam-proctor)** | React · TypeScript · Express · MongoDB · Docker · AWS | LTI 1.3 exam platform that runs inside Moodle, with in-browser proctoring via TensorFlow.js and MediaPipe; violation snapshots go to self-hosted MinIO. |
 | **[watcher](https://github.com/shaheeranser/watcher)** | Go · Docker · Ollama | Self-hosted daemon that tails your logs and explains crashes with a local LLM — no cloud calls, no pasting stack traces into a chatbot. |
 | **[CI/CD & Kubernetes Pipeline](https://github.com/shaheeranser/github-actions-demo)** | GitHub Actions · Docker · Kubernetes · Azure | Three-service FastAPI stack shipped through one pipeline: Postgres-backed CI, images to Azure Container Registry, AKS deploys, ephemeral per-PR staging with smoke tests. |
 
-_Also building_ — [reamify](https://github.com/shaheeranser/reamify) (PDF→XLSX, bounded memory) · [errex](https://github.com/shaheeranser/errex_hackerdorm) (error logs → plain-language fixes) · [hijri-api](https://github.com/shaheeranser/hijri-api) (verified Hijri dates as static JSON — [live site](https://shaheeranser.github.io/hijri-api/)).
+_Also building_ — [reamify](https://github.com/shaheeranser/reamify) (PDF→XLSX, bounded memory) · [errex](https://github.com/shaheeranser/errex) (error logs → plain-language fixes) · [hijri-api](https://github.com/shaheeranser/hijri-api) (verified Hijri dates as static JSON — [live site](https://shaheeranser.github.io/hijri-api/)).
 
 ### Stack
 

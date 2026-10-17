@@ -52,11 +52,11 @@ _Also building_ — [reamify](https://github.com/shaheeranser/reamify) (PDF→XL
 Refreshed daily from the GitHub search API — nothing here is hand-edited. Full history lives in [**opensource-contributions**](https://github.com/shaheeranser/opensource-contributions).
 
 <!-- OSS:START -->
+- 🟢 **Open PR** — [Add Watcher to the project list](https://github.com/up-for-grabs/up-for-grabs.net/pull/6279) · `up-for-grabs/up-for-grabs.net` · 2026-10-16
 - 🔴 **Closed issue** — [Sheets: add File > Print (Ctrl/Cmd+P)](https://github.com/genspark-ai/genoffice/issues/1862) · `genspark-ai/genoffice` · 2026-10-04
 - 🟢 **Open PR** — [perf(tables): cut chart detection and layout complexity off quadratic paths](https://github.com/firecrawl/pdf-inspector/pull/613) · `firecrawl/pdf-inspector` · 2026-10-02
 - 🟢 **Open PR** — [added shaheeranser to membersmap](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/pull/25) · `Cloud-Native-Security-Pakistan/becoming-a-member` · 2026-09-24
 - 🔴 **Closed issue** — [[INVITE REQUEST]](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/issues/24) · `Cloud-Native-Security-Pakistan/becoming-a-member` · 2026-09-24
-- 🟢 **Open issue** — [High extraction time and memory usage when using `@firecrawl/pdf-inspector` from an npm package](https://github.com/firecrawl/pdf-inspector/issues/585) · `firecrawl/pdf-inspector` · 2026-09-24
 <!-- OSS:END -->
 
 <div align="center">

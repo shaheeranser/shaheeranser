@@ -52,11 +52,11 @@ _Also building_ — [reamify](https://github.com/shaheeranser/reamify) (PDF→XL
 Refreshed daily from the GitHub search API — nothing here is hand-edited. Full history lives in [**opensource-contributions**](https://github.com/shaheeranser/opensource-contributions).
 
 <!-- OSS:START -->
-- 🟣 **Merged** — [Add Watcher to the project list](https://github.com/up-for-grabs/up-for-grabs.net/pull/6279) · `up-for-grabs/up-for-grabs.net` · 2026-10-16
-- 🔴 **Closed issue** — [Sheets: add File > Print (Ctrl/Cmd+P)](https://github.com/genspark-ai/genoffice/issues/1862) · `genspark-ai/genoffice` · 2026-10-04
-- 🟢 **Open PR** — [perf(tables): cut chart detection and layout complexity off quadratic paths](https://github.com/firecrawl/pdf-inspector/pull/613) · `firecrawl/pdf-inspector` · 2026-10-02
-- 🟢 **Open PR** — [added shaheeranser to membersmap](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/pull/25) · `Cloud-Native-Security-Pakistan/becoming-a-member` · 2026-09-24
-- 🔴 **Closed issue** — [[INVITE REQUEST]](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/issues/24) · `Cloud-Native-Security-Pakistan/becoming-a-member` · 2026-09-24
+- 🟣 **Merged** — [ci(generate): skip the PR when only generated_at changed](https://github.com/pakistan-hijri/hijri-api/pull/22) · `pakistan-hijri/hijri-api` · 2026-11-11
+- 🟣 **Merged** — [docs: the proposal PR carries the regenerated calendar](https://github.com/pakistan-hijri/hijri-api/pull/21) · `pakistan-hijri/hijri-api` · 2026-11-11
+- 🟣 **Merged** — [data(hijri): confirm 1 Jumada al-Thani 1448 as 2026-11-12](https://github.com/pakistan-hijri/hijri-api/pull/20) · `pakistan-hijri/hijri-api` · 2026-11-11
+- 🟣 **Merged** — [ci(watcher): regenerate the calendar in the proposal PR](https://github.com/pakistan-hijri/hijri-api/pull/19) · `pakistan-hijri/hijri-api` · 2026-11-11
+- 🟣 **Merged** — [generate: propose regenerated data via pull request](https://github.com/pakistan-hijri/hijri-api/pull/13) · `pakistan-hijri/hijri-api` · 2026-10-17
 <!-- OSS:END -->
 
 <div align="center">

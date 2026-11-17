@@ -52,11 +52,11 @@ _Also building_ — [reamify](https://github.com/shaheeranser/reamify) (PDF→XL
 Refreshed daily from the GitHub search API — nothing here is hand-edited. Full history lives in [**opensource-contributions**](https://github.com/shaheeranser/opensource-contributions).
 
 <!-- OSS:START -->
+- 🟣 **Merged** — [chore: align tooling and docs with canonical upstream](https://github.com/pakistan-hijri/hijri-cli/pull/1) · `pakistan-hijri/hijri-cli` · 2026-11-17
+- 🟣 **Merged** — [refactor: rename watcher to scanner and update org links](https://github.com/pakistan-hijri/hijri-api/pull/23) · `pakistan-hijri/hijri-api` · 2026-11-17
 - 🟣 **Merged** — [ci(generate): skip the PR when only generated_at changed](https://github.com/pakistan-hijri/hijri-api/pull/22) · `pakistan-hijri/hijri-api` · 2026-11-11
 - 🟣 **Merged** — [docs: the proposal PR carries the regenerated calendar](https://github.com/pakistan-hijri/hijri-api/pull/21) · `pakistan-hijri/hijri-api` · 2026-11-11
 - 🟣 **Merged** — [data(hijri): confirm 1 Jumada al-Thani 1448 as 2026-11-12](https://github.com/pakistan-hijri/hijri-api/pull/20) · `pakistan-hijri/hijri-api` · 2026-11-11
-- 🟣 **Merged** — [ci(watcher): regenerate the calendar in the proposal PR](https://github.com/pakistan-hijri/hijri-api/pull/19) · `pakistan-hijri/hijri-api` · 2026-11-11
-- 🟣 **Merged** — [generate: propose regenerated data via pull request](https://github.com/pakistan-hijri/hijri-api/pull/13) · `pakistan-hijri/hijri-api` · 2026-10-17
 <!-- OSS:END -->
 
 <div align="center">

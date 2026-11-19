@@ -5,7 +5,7 @@
 **Software Engineer** · Product-minded, systems-focused
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shaheeranser-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheeranser)
-[![Email](https://img.shields.io/badge/Email-shaheer.anser%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaheer.anser@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello%40shaheeranser.me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@shaheeranser.me)
 [![GitHub](https://img.shields.io/badge/GitHub-shaheeranser-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaheeranser)
 ![Lahore, Pakistan](https://img.shields.io/badge/Lahore-Pakistan-2F855A?style=flat-square&logo=googlemaps&logoColor=white)
 
